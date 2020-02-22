@@ -8,6 +8,6 @@ setup(name='mar_eq',
         author='Marcio Maluka',
         author_email='marciomaluka@ymail.com',
         license='MIT',
-        packages=['numpy'],
+        #packages=['numpy'],
         zip_safe=False,
         )
